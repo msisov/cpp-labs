@@ -1,0 +1,13 @@
+﻿Build started 31.08.2013 17:31:16.
+     1>Project "D:\Max\Studying\2013-2014\C++\LAB1\C++\ex8 in c\ex8 in c\ex8 in c.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>d:\max\studying\2013-2014\c++\lab1\c++\ex8 in c\ex8 in c\source.c(11): error C2065: 'T' : undeclared identifier
+     1>d:\max\studying\2013-2014\c++\lab1\c++\ex8 in c\ex8 in c\source.c(11): error C2146: syntax error : missing ';' before identifier 's'
+     1>d:\max\studying\2013-2014\c++\lab1\c++\ex8 in c\ex8 in c\source.c(11): error C2065: 's' : undeclared identifier
+     1>Done Building Project "D:\Max\Studying\2013-2014\C++\LAB1\C++\ex8 in c\ex8 in c\ex8 in c.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10

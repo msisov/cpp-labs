@@ -1,0 +1,12 @@
+﻿Build started 4.11.2013 19:14:49.
+     1>Project "Z:\Studying\2013-2014\C++\Labs\Lab8\Lab8\Lab8.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Progs\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>z:\studying\2013-2014\c++\labs\lab8\lab8\source.cpp : fatal error C1033: cannot open program database 'z:\studying\2013-2014\c++\labs\lab8\lab8\debug\vc110.pdb'
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppCommon.targets(347,5): error MSB6003: The specified task executable "CL.exe" could not be run. Could not find file 'Z:\Studying\2013-2014\C++\Labs\Lab8\Lab8\Debug\cl.write.1.tlog'.
+     1>Done Building Project "Z:\Studying\2013-2014\C++\Labs\Lab8\Lab8\Lab8.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:36.83
